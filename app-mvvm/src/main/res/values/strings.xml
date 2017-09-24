@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">app-mvvm</string>
+
+    <string name="error_read">Failed to read</string>
 </resources>
